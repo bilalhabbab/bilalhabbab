@@ -8,7 +8,6 @@
 <pre>
   Email: bilalhabbab@gmail.com<br>
   LinkedIn: https://www.linkedin.com/in/bilalhb<br>
-  Instagram: https://www.instagram.com/bilalhb<br>
 </pre>
 <!---
 bilalhabbab/bilalhabbab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
