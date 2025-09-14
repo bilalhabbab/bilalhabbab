@@ -1,15 +1,15 @@
-<h1>👋 Hi, I’m @bilalhabbab</h1>
-<pre>
-  👀 I’m interested in swe<br>
-  🌱 I’m currently studying CS at TMU
-</pre>
-<hr>
-<h1>📫 How to reach me:</h1><br>
-<pre>
-  Email: bilalhabbab@gmail.com<br>
-  LinkedIn: https://www.linkedin.com/in/bilalhb<br>
-</pre>
-<!---
-bilalhabbab/bilalhabbab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👋 Hi, I’m Bilal Habbab  
+
+🎓 Computer Science student at **Toronto Metropolitan University (TMU)**  
+💻 Aspiring **Software Engineer** with experience in **AI, full-stack, and backend systems**  
+🚀 Built projects like **myleet** (LeetCode-style platform with AI feedback) and **CodeSensai.study** (interview prep tool)  
+💼 Previous roles include **Software Engineer Intern** (WSAudiology, Bassem Labs) and **Technical Support Specialist** (Rogers)  
+
+---
+
+## 📫 Let’s Connect  
+- [Email](mailto:bilalhabbab@gmail.com)  
+- [LinkedIn](https://www.linkedin.com/in/bilalhb)  
+- [GitHub](https://github.com/bilalhabbab)  
+
+✨ Always open to new opportunities and collaborations!  
